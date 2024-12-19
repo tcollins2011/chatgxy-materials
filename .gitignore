@@ -1,0 +1,57 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Generated embeddings or intermediate files
+*.npy
+*.npz
+*.pkl
+*.h5
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test coverage and reports
+.coverage
+coverage.xml
+htmlcov/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Pinecone metadata or embeddings cache (if generated locally)
+pinecone_cache/
+
+# Miscellaneous
+*.bak

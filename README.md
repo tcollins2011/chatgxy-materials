@@ -14,13 +14,9 @@ Effectiveness Testing: Scripts and methodologies to evaluate the quality and eff
 
 Extensibility: Designed to easily integrate with different embedding models and search engines.
 
-## Installation
-
-To set up the project, clone the repository and install the required dependencies:
-
 ## Clone the repository
-git clone https://github.com/yourusername/semantic-document-search.git
-cd semantic-document-search
+git clone https://github.com/tcollins2011/chatgxy-materials.git
+cd chatgxy-materials
 
 ## Install dependencies
 pip install -r requirements.txt
